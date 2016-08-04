@@ -12,3 +12,6 @@ npm install
 ```
 npm test
 ```
+
+##Notes
+By default, the server runs on port 2000
